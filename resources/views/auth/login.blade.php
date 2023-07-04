@@ -38,11 +38,6 @@
 
                   <div class="form-group">
                     <label for="password" class="d-block">Password
-                      <div class="float-right">
-                        <a href="forgot.html">
-                          Forgot Password?
-                        </a>
-                      </div>
                     </label>
                     <input id="password" type="password" class="form-control" name="password" tabindex="2" required>
                     <div class="invalid-feedback">

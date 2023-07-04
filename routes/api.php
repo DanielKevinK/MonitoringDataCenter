@@ -39,7 +39,6 @@ Route::group([
 
 // Data Staff
 Route::group([
-    // 'middleware' => ['api', 'jwt.auth'],
 
 ], function ($router) {
 
@@ -53,7 +52,6 @@ Route::group([
 
 // Product
 Route::group([
-    // 'middleware' => ['api', 'jwt.auth'],
 
 ], function ($router) {
 
@@ -68,7 +66,6 @@ Route::group([
 
 // Report Monitoring
 Route::group([
-    // 'middleware' => ['api', 'jwt.auth'],
 
 ], function ($router) {
 
@@ -83,7 +80,6 @@ Route::group([
 
 // Report Maintenance
 Route::group([
-    // 'middleware' => ['api', 'jwt.auth'],
 
 ], function ($router) {
 
@@ -98,7 +94,6 @@ Route::group([
 
 // Shift
 Route::group([
-    // 'middleware' => ['api', 'jwt.auth'],
 
 ], function ($router) {
 
@@ -112,7 +107,6 @@ Route::group([
 
 // Shift Staff
 Route::group([
-    // 'middleware' => ['api', 'jwt.auth'],
 
 ], function ($router) {
 
@@ -126,7 +120,6 @@ Route::group([
 
 // Supervisor
 Route::group([
-    // 'middleware' => ['api', 'jwt.auth'],
 
 ], function ($router) {
 
